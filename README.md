@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
-<h3 align="center">A keen frontend developer from Australia</h3>
+<h3 align="center">A keen fullstack developer from Australia</h3>
 
 - 🖥️ I’m currently working on [Dateful](https://github.com/enazbanks/dateful)
 
