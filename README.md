@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 
 
-- 🌱 I’m currently learning **React, Java and Typescript**
 
-- 🎮 I also maintain [Black Ice](https://gitlab.com/BlackIce-HOI4/blackice_v4.0)
+
+- 🎮 I maintain [Black Ice](https://gitlab.com/BlackIce-HOI4/blackice_v4.0)
 
 - 👨‍💻 All of my projects are available at [https://github.com/aquillo-au](https://github.com/aquillo-au)
 
